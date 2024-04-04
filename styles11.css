@@ -1,0 +1,12 @@
+.rating{
+    color: orange;
+}
+
+.btn{
+    transition: tranform 0.3s;
+    &:hover{
+        transform:scale(1.2);
+    }
+
+
+}
